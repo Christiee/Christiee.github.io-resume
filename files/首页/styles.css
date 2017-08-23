@@ -1,0 +1,166 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:456px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  height:66px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:48px;
+  color:#666666;
+}
+#u0 {
+  position:absolute;
+  left:20px;
+  top:19px;
+  width:97px;
+  height:66px;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:48px;
+  color:#666666;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  white-space:nowrap;
+}
+#u2_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:309px;
+  height:43px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  color:#666666;
+  line-height:21px;
+}
+#u2 {
+  position:absolute;
+  left:147px;
+  top:36px;
+  width:309px;
+  height:43px;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  color:#666666;
+  line-height:21px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:309px;
+  word-wrap:break-word;
+}
+#u4_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:309px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  color:#3399FF;
+  line-height:21px;
+}
+#u4 {
+  position:absolute;
+  left:20px;
+  top:134px;
+  width:309px;
+  height:20px;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  color:#3399FF;
+  line-height:21px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:309px;
+  word-wrap:break-word;
+}
+#u6_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:309px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  color:#3399FF;
+  line-height:21px;
+}
+#u6 {
+  position:absolute;
+  left:20px;
+  top:103px;
+  width:309px;
+  height:20px;
+  font-family:'FZLTXHK--GBK1-0', 'Lantinghei SC Extralight', 'Lantinghei SC';
+  font-weight:200;
+  font-style:normal;
+  color:#3399FF;
+  line-height:21px;
+}
+#u7 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:309px;
+  word-wrap:break-word;
+}
